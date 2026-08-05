@@ -1,4 +1,4 @@
-# todo.ai
+# todo-intelligence
 
 AI가 할 일을 일간/주간으로 요약하고 조언까지 해주는 to-do 리스트 앱.
 
